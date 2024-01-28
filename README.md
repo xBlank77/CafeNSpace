@@ -5,7 +5,7 @@
   Members:
 </h1>
 <p>
-  Lingling, Ramon Benedick
-  Lapan, Ace Lorence
-  Ando, Joshua
+  Lingling, Ramon Benedick<br>
+  Lapan, Ace Lorence<br>
+  Ando, Joshua<br>
 </p>
