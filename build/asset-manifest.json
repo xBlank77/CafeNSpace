@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4deaacfd.css",
+    "main.js": "/static/js/main.c897411c.js",
+    "static/media/cfbg.jpg": "/static/media/cfbg.1e1635a6a295cd424352.jpg",
+    "static/media/cup.png": "/static/media/cup.d8cf9fa9cac327effc2e.png",
+    "static/media/coffeelogo.png": "/static/media/coffeelogo.8109858723a9d9b5f782.png",
+    "static/media/pcbg.png": "/static/media/pcbg.d68e4137f0b48dc39b9c.png",
+    "static/media/choco.jpg": "/static/media/choco.cf63500a5c6f43b47d74.jpg",
+    "static/media/mobile.png": "/static/media/mobile.0d34eda0451c0bb677e3.png",
+    "static/media/text.png": "/static/media/text.8aad30d1593054983b60.png",
+    "static/media/caramel.jpg": "/static/media/caramel.5c69fbfa7b917aefadc5.jpg",
+    "static/media/about-us.png": "/static/media/about-us.41ad1a2fd7d422bc2f83.png",
+    "static/media/Menu.png": "/static/media/Menu.b641b2ee66cc66c4507a.png",
+    "index.html": "/index.html",
+    "main.4deaacfd.css.map": "/static/css/main.4deaacfd.css.map",
+    "main.c897411c.js.map": "/static/js/main.c897411c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4deaacfd.css",
+    "static/js/main.c897411c.js"
+  ]
+}
